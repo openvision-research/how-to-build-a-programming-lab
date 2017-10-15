@@ -1,0 +1,21 @@
+01. https://www.python.org
+
+02. https://www.python.org/downloads/release/python-354/
+
+03. pip install pandas scipy nose matplotlib theano ipython ptpython scikit-learn keras
+
+04. http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy
+
+05. http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy
+
+06. http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image
+
+07. pip install #numpy #scipy #scikit-image
+
+08. http://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+09. pip install opencv-python opencv_contrib-python
+
+10. https://www.tensorflow.org
+
+11. https://www.tensorflow.org/install/install_windows
